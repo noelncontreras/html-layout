@@ -1,0 +1,56 @@
+body {
+    font-size: 20px;
+    margin: 0;
+}
+.gray-box {
+    width: 100%;
+    height: 20vh;
+    margin: auto;
+    background-color: lightgray;
+}
+.small-blue {
+    width: 10%;
+    height: 80%;
+    margin: 10px 40px 40px 40px;
+    display: inline-block;
+    background-color: royalblue;
+}
+.white-box {
+    width: 100%;
+    height: 30vh;
+    margin: auto;
+    text-align: center;
+    background-color: white;
+}
+.text {
+    width: 75%;
+    height: 50%;
+    margin: auto;
+    padding: 20px 20px 20px 20px;
+    display: inline-block;
+    box-sizing: border-box;
+}
+.blue-box {
+    width: 100%;
+    height: 20vh;
+    margin: auto;
+    background-color: royalblue;
+}
+.teal-box {
+    width: 100%;
+    height: 20vh;
+    margin: auto;
+    background-color: turquoise;
+}
+.moss-box {
+    width: 100%;
+    height: 20vh;
+    margin: auto;
+    background-color: rgb(172, 248, 172);
+}
+.yellow-box {
+    width: 100%;
+    height: 20vh;
+    margin: auto;
+    background-color: yellow;
+}

@@ -1,0 +1,52 @@
+.first-box {
+    height: 30vh;
+    border: 5px solid;
+    background-color: white;
+}
+.purple-box {
+    width: 50px;
+    height: 60%;
+    margin-left: 10px;
+    margin-top: 75px;
+    display: inline-block;
+    background-color: purple;
+}
+.green-box {
+    width: 30%;
+    height: 80%;
+    display: inline-block;
+    margin: 0 50px;
+    background-color: green;
+}
+.blue-circle {
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    display: inline-block;
+    background-color: lightblue
+}
+.second-box {
+    height: 40vh;
+    border: 5px dotted;
+    background-color: white;  
+}
+.yellow-box {
+    width: 90%;
+    height: 75%;
+    margin-left: 50px;
+    margin-top: 40px;
+    box-shadow: 10px 10px 10px #6d6d6d;
+    background-color: rgb(255, 255, 189);
+}
+.text-box h1 {
+    width: 50%;
+    height: 20%;
+    color: navy;
+    letter-spacing: 20px;
+    text-align: center;
+    padding: 100px;
+    border: 1px solid gray;
+    box-sizing: border-box;
+    margin: 0 auto;
+    background-color: white;
+}
